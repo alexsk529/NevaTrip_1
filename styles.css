@@ -25,6 +25,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
     line-height: 1;
+    overflow-x: hidden;
 }
 ol, ul {
     list-style: none;
@@ -51,7 +52,7 @@ html {
 }
 
 .wrapper {
-    padding: 1.625rem 1.0625rem 0;
+    padding: 1.625rem 0.5rem 0;
 }
 
 .container {
@@ -189,7 +190,7 @@ html {
 
 }
 
-@media screen and (min-width: 375px) {
+@media screen and (min-width: 360px) {
     .container {
         width: 341px;
         margin-bottom: 1.875rem;
@@ -307,7 +308,7 @@ html {
     }
 }
 
-@media screen and (min-width: 375px) and (orientation: landscape) {
+@media screen and (min-width: 360px) and (orientation: landscape) {
     .container {
         width: 620px;
         margin-bottom: 1.875rem;
