@@ -14,4 +14,4 @@
 - mobile (orientation: landscape);
 - desktop - viewport min-width: 1150px.
 
-[Ссылка на выполненное задание](https://alexsk529.github.io/NevaTrip_1.1-1.2/)
+[Ссылка на выполненное задание](https://alexsk529.github.io/NevaTrip_1/)
